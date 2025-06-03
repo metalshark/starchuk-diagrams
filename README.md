@@ -6,6 +6,11 @@ Create system landscapes, data models, and sequence diagrams without manual mous
 
 [Mermaid Playground](https://mermaid.live)
 
+## Starting States
+[System Landscape](https://play.d2lang.com/?script=Ck7MSS1Oyy9KTuUCBAAA__8%3D&layout=dagre&sketch=0&theme=0)
+
+[Data Model](https://play.d2lang.com/?script=ckxOzi_NK7FSqOZSUCjOSCxItVIoLsyJL0lMyknlquUCBAAA__8%3D&layout=dagre&sketch=0&theme=0)
+
 ## Examples
 [D2: System Landscape](D2%20-%20System%20Landscape.md)
 
