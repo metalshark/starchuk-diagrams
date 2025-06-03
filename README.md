@@ -1,6 +1,8 @@
 # Architectual Diagram Layout Automation
 Create system landscapes, data models, and sequence diagrams without manual mousing
 
+[Slide Deck](https://docs.google.com/presentation/d/1A3W-jneBJTWAlPZHd30aG6ya97Dfr95f/edit?usp=sharing&ouid=103730324657735119657&rtpof=true&sd=true)
+
 ## Playgrounds
 [D2 Playground](https://play.d2lang.com)
 
